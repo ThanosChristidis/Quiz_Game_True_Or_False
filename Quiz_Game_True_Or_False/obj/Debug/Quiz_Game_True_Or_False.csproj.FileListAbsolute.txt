@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\bin\Debug\Quiz_Game_True_Or_False.exe.config
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\bin\Debug\Quiz_Game_True_Or_False.exe
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\bin\Debug\Quiz_Game_True_Or_False.pdb
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\obj\Debug\Quiz_Game_True_Or_False.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\obj\Debug\Quiz_Game_True_Or_False.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\obj\Debug\Quiz_Game_True_Or_False.exe
+C:\Users\User\source\repos\Quiz_Game_True_Or_False\Quiz_Game_True_Or_False\obj\Debug\Quiz_Game_True_Or_False.pdb
